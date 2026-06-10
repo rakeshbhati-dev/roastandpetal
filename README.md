@@ -86,7 +86,7 @@ Deployed on **Netlify** via continuous deployment from the main branch.
 Interested in a similar project for your business?
 
 - 📧 rakeshbhati.dev@gmail.com
-- 💼 rakeshbhati.netlify.app
+- 💼 https://rakeshbhati.netlify.app
 - 🐙 https://github.com/rakeshbhati-dev
 
 ---
