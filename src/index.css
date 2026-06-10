@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,400&family=Outfit:wght@300;400;500;600&display=swap');
+@import "tailwindcss";
+
+
+@theme{
+    --color-border:#E8E0D4;
+    --font-serif: 'Playfair Display', Georgia, serif;
+    --color-primary:#D47C3A;
+    --font-sans: 'Outfit', sans-serif;
+    --color-cream:#FEF0DC;
+    --color-gray:#666;
+    --color-lightGray:#AAAAAA;
+    --color-dark:#1A1A1A;
+}
+
+@layer base {
+  html {
+    @apply scroll-smooth;
+  }
+}
